@@ -1,3 +1,4 @@
 (sym_lib_table
-  (lib (name Herald_Extras)(type Legacy)(uri ${KIPRJMOD}/../../extras/kicad.lib)(options "")(descr "Herald KiCad Extras"))
+  (version 7)
+  (lib (name "Herald_Extras")(type "KiCad")(uri "${KIPRJMOD}/../../extras/kicad.kicad_sym")(options "")(descr "Herald KiCad Extras"))
 )
