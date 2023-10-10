@@ -76,6 +76,9 @@
     (uuid f0507228-3d96-4a40-9e2d-9c9fb5ef0538)
   )
 
+  (no_connect (at 58.42 142.24) (uuid 9a165093-ee8a-4b68-bee9-932cef254396))
+  (no_connect (at 58.42 138.43) (uuid ee4e0950-6c9a-4d75-bdea-8446eeb1fbff))
+
   (wire (pts (xy 90.17 67.31) (xy 90.17 97.79))
     (stroke (width 0) (type default))
     (uuid 012e6e27-d390-473a-a3bf-d512b255adab)
