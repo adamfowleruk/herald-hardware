@@ -1400,7 +1400,7 @@
     (property "Value" "ThermalSlot" (at 81.28 172.593 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "Herald_Extras:MillSlot_8.0x1.0mm" (at 78.74 171.45 0)
+    (property "Footprint" "Herald:MillSlot_8.0x1.0mm" (at 78.74 171.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 78.74 171.45 0)

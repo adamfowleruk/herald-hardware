@@ -386,7 +386,7 @@
     (property "Value" "SW_Push" (at 116.84 35.56 0)
       (effects (font (size 1.27 1.27)))
     )
-    (property "Footprint" "" (at 116.84 35.56 0)
+    (property "Footprint" "Button_Switch_SMD:SW_Push_1P1T_NO_CK_KSC6xxJ" (at 116.84 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "~" (at 116.84 35.56 0)
