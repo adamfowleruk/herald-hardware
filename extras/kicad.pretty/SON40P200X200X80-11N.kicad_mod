@@ -64,4 +64,9 @@
     (solder_mask_margin 0.102) (tstamp f4536539-1193-4c0a-a784-fcd75b39f14c))
   (pad "11" smd rect (at 0 0) (size 0.9 1.5) (layers "F.Cu" "F.Mask")
     (solder_mask_margin 0.102) (tstamp 129fba98-b030-4fcb-9dac-f774e157e4d1))
+  (model "C:/Users/adam/Documents/git/herald-hardware/extras/packages3d/TLV751180330PDSQR.step"
+    (offset (xyz 0 0 0))
+    (scale (xyz 1 1 1))
+    (rotate (xyz -90 0 0))
+  )
 )
