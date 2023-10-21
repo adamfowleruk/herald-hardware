@@ -768,7 +768,7 @@
     (property "Datasheet" "" (at 63.5 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1cad47f2-bacc-4cd6-b48f-85e6734b1af1))
+    (pin "1" (uuid d175208c-40be-4fe9-8695-0de696aeda4b))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -798,7 +798,7 @@
     (property "Datasheet" "" (at 157.48 49.53 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid b80ece6a-e86f-4c04-9912-87a6772921f0))
+    (pin "1" (uuid e390da79-bac2-46f0-b4c1-01e163f15027))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -828,7 +828,7 @@
     (property "Datasheet" "" (at 157.48 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid afd2eac9-1fe2-496e-aa45-b95acb0eca83))
+    (pin "1" (uuid d1731541-a495-4e61-aa27-de085bd77120))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -858,11 +858,11 @@
     (property "Datasheet" "~" (at 233.68 43.18 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ef6e9417-f510-4691-b7d6-7759f13cc923))
-    (pin "2" (uuid 5b8d5d94-1f6e-48e9-98c5-e7f1ba2114c4))
-    (pin "3" (uuid f59b9216-6425-49c8-a886-b63be0f25719))
-    (pin "4" (uuid fc988cb4-764f-4b60-aa36-d9a030bcb1e4))
-    (pin "5" (uuid e824fd15-3fa5-4839-aa57-a05505704751))
+    (pin "1" (uuid 2356e315-4c30-4226-aa19-1b3747920a2d))
+    (pin "2" (uuid cd705916-0561-4f14-9c09-08f8849d93ce))
+    (pin "3" (uuid 67aa5a2d-8255-41e5-82f0-aef7c60d62e5))
+    (pin "4" (uuid 09ba6402-92da-4b7c-96bf-6fb32e9c7149))
+    (pin "5" (uuid 020d8228-40f7-4378-bd6b-54131d624bbd))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/88c842d7-ac9a-4ec4-bd18-165411775e80"
@@ -896,8 +896,8 @@
     (property "MPN" "CRCW040210K0FKEDC" (at 80.01 39.37 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 386d250d-cb2a-4dd8-a68d-0e05060873e0))
-    (pin "2" (uuid e0f2cc3b-37a5-41fc-b9f5-7e7f50aa423b))
+    (pin "1" (uuid 902eabff-d00f-42f9-99ce-857cba0e66ee))
+    (pin "2" (uuid 43fc40fa-8592-4a31-95cb-a48a4dfb01c6))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -927,7 +927,7 @@
     (property "Datasheet" "" (at 80.01 34.29 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid e213c9a4-6f90-40e9-83c1-654956e4850e))
+    (pin "1" (uuid 274a8e7e-aab4-4ae8-8bef-d1a58f9f5904))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -957,7 +957,7 @@
     (property "Datasheet" "" (at 45.72 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 1a391d2c-424b-45c9-b467-e7639ed1fe67))
+    (pin "1" (uuid deb146ca-da5b-44b7-8af7-49eaebd2556d))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -993,8 +993,8 @@
     (property "MPN" "GRM155R61C105KA12D" (at 45.72 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 555da1d5-83a2-4cd9-b5da-63301a91620e))
-    (pin "2" (uuid cc3d1659-b084-489c-8b9b-40bdd4a3b67e))
+    (pin "1" (uuid 338d1839-ebb0-4df6-8fd5-35897de18e75))
+    (pin "2" (uuid e2102211-a70a-4015-ae9e-edd71926fa74))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -1024,7 +1024,7 @@
     (property "Datasheet" "" (at 63.5 52.07 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid de75071f-c1af-48d6-bb2d-090217e9ffd2))
+    (pin "1" (uuid 11a04e88-069a-4310-ab5e-1c0a5a1f2c0e))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"
@@ -1060,12 +1060,12 @@
     (property "MPN" "APDS-9250" (at 60.96 44.45 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid ee8dd502-9eae-4881-afc2-ac6d9ca1a635))
-    (pin "2" (uuid 81e21a0f-95ae-470e-96e1-9a3ea6747295))
-    (pin "3" (uuid eace811c-5ee8-4f16-9dfe-ba7510d81277))
-    (pin "4" (uuid cb55445d-2411-4903-887b-b9ab5cea8a8e))
-    (pin "5" (uuid ed7bc6a6-d9c6-4b43-9503-aef543003321))
-    (pin "6" (uuid 44f35734-24f6-4d8d-acaa-fce902b9d947))
+    (pin "1" (uuid 28b07f2c-446c-4efb-9f80-295384778f7c))
+    (pin "2" (uuid bd06fdca-7713-47e4-9a3a-b572cce13d3b))
+    (pin "3" (uuid d8b7a651-ab3c-48c6-8421-303bcc634037))
+    (pin "4" (uuid 7f80107f-f8cc-4a28-8109-ff3582c9915e))
+    (pin "5" (uuid c1401da1-e47d-43cc-90d4-0f3b0ada224e))
+    (pin "6" (uuid 92cecb74-4405-4084-af78-3682028ecf4c))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/0cc4a629-5d27-4e9f-8e94-4a20558b37d1"

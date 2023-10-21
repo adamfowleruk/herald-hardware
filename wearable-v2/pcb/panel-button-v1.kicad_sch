@@ -357,11 +357,11 @@
     (property "Datasheet" "~" (at 238.76 41.91 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 4bd30f42-06d7-4b44-9302-b60d5f0c17fb))
-    (pin "2" (uuid 0c18add2-a746-4db0-b131-ae0ba2ca74ca))
-    (pin "3" (uuid 3af8a3da-d5b1-441a-aff7-ba8f0e95e7df))
-    (pin "4" (uuid 3e1926ef-c887-4437-98ba-af096829aa36))
-    (pin "5" (uuid 581ecd66-c282-4c30-8f51-e66cedeb6bec))
+    (pin "1" (uuid 0e5d24ab-bb00-4184-9423-04cf77ed79e7))
+    (pin "2" (uuid cbb7b665-5eaa-4059-84bc-658050541712))
+    (pin "3" (uuid e4eb4173-fc1d-46f5-9baa-d9ef04bb278d))
+    (pin "4" (uuid bee2f820-5de2-4012-8290-3532bf3e4e0c))
+    (pin "5" (uuid 0f9ba84f-4f34-4a09-81c6-a27a026916ae))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/88c842d7-ac9a-4ec4-bd18-165411775e80"
@@ -392,8 +392,8 @@
     (property "Datasheet" "~" (at 116.84 35.56 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (pin "1" (uuid 7b8376f0-b347-4ca2-8ad6-dd98bb701416))
-    (pin "2" (uuid c234ea53-a79c-423c-8a19-3d5b7b3c32a4))
+    (pin "1" (uuid db0067b0-d680-414c-8487-206ad949430b))
+    (pin "2" (uuid d83957d2-022a-4dfd-996e-1e5e1cf15f92))
     (instances
       (project "wearable-v2"
         (path "/1eb7e8c9-86dc-4f6b-85aa-748b782af952/781c1b62-07be-4861-a6d7-3d47e08dc82e"

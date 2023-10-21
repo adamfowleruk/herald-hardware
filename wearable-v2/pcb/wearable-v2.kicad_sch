@@ -391,7 +391,7 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 6c734b45-ac20-4c29-a0b6-618ec71bcf0f)
   )
-  (text_box "Note: Currently we're assuming the compute board provides its own RTC too allowing wake at time internally to that board."
+  (text_box "Note: Currently we're assuming the compute board provides its own RTC too, allowing wake at time internally to that board."
     (at 170.18 12.7 0) (size 48.26 7.62)
     (stroke (width 0) (type default))
     (fill (type none))

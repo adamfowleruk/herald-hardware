@@ -1,4 +1,4 @@
-22373723217514241
+22377119421135427
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56020,6 +56020,20 @@ nRF52833 BC833
 0
 28
 28
+Herald
+HERALD_V2_CONN_PORT
+
+
+0
+12
+8
+Herald
+HERALD_V2_CONN_RECEPTACLE
+Herald Standard Connector board connector, Kyocera 5861 based
+btb,kyocera,5861,herald,receptacle
+0
+12
+8
 Herald
 Herald_Battery_Solder_Pads
 Battery Solder Pads for the Herald Wearable
