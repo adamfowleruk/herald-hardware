@@ -1,4 +1,4 @@
-22377119421135427
+22377119567475975
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -56022,14 +56022,14 @@ nRF52833 BC833
 28
 Herald
 HERALD_V2_CONN_PORT
-
-
+Herald V2 connector port, extension board connector, based on kyocera 5861 - 145861006024829+ (plug)
+herald,port,v2,kyocera,5861
 0
-12
+14
 8
 Herald
 HERALD_V2_CONN_RECEPTACLE
-Herald Standard Connector board connector, Kyocera 5861 based
+Herald Standard Connector board connector, Kyocera 5861 based, 245861006004829+ (receptacle)
 btb,kyocera,5861,herald,receptacle
 0
 12
