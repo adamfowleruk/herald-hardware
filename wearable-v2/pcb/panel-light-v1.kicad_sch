@@ -620,10 +620,6 @@
     (uuid d44d45dc-7777-4eed-a95f-ab8783ff8cff)
   )
 
-  (wire (pts (xy 157.48 44.45) (xy 166.37 44.45))
-    (stroke (width 0) (type default))
-    (uuid d518465b-10e2-4afb-aebc-10db00ee91e7)
-  )
   (wire (pts (xy 157.48 34.29) (xy 166.37 34.29))
     (stroke (width 0) (type default))
     (uuid d9015bd9-ae46-4bde-a812-38bb59c841f6)
