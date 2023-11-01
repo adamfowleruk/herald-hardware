@@ -493,8 +493,8 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "",
-      "vrml": ""
+      "step": "wearable-v2.step",
+      "vrml": "wearable-v2.wrl"
     },
     "page_layout_descr_file": ""
   },
