@@ -3319,15 +3319,22 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 4bb52f1e-a35c-42bf-bd24-0bbe3f17e46b)
   )
-  (text_box "QN: Any value in routing other USB-C pins here?"
-    (at 69.85 154.94 0) (size 22.86 8.89)
+  (text_box "Datasheet indicates operation at 83ns or slower, so no spike filter on I2C."
+    (at 68.58 134.62 0) (size 22.86 10.16)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 6386d390-1b7c-47cd-8b78-ed900bdbeec5)
+  )
+  (text_box "QN: Any value in routing other USB-C pins here? - MAYBE if we can use these to generate interrupts for expansion boards, we can use the GPIO IC with 1V8 logic for all panel devices."
+    (at 58.42 175.26 0) (size 36.83 13.97)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27) bold) (justify left top))
     (uuid 749861e4-c093-4a33-beee-f60fefe04420)
   )
   (text_box "TODO rework test points"
-    (at 118.11 58.42 0) (size 17.78 6.35)
+    (at 116.84 55.88 0) (size 17.78 7.62)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27) bold) (justify left top))
@@ -3361,12 +3368,40 @@
     (effects (font (size 1.27 1.27)) (justify left top))
     (uuid 9c7964d4-a2da-4413-a426-4c95fb27f6f2)
   )
-  (text_box "QN: WHAT ABOUT A RESET BUTTON?"
-    (at 99.06 121.92 0) (size 19.05 6.35)
+  (text_box "TODO add GPIO wire holes OR 2-pin connectors"
+    (at 87.63 153.67 0) (size 17.78 11.43)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27) bold) (justify left top))
+    (uuid a0609434-996f-4540-bc1f-9ca829b7c9b4)
+  )
+  (text_box "Note: This R1 prog resistor seems to restrict it to 100mA charging - need to test this. See datasheet page 7 fig 2-4."
+    (at 116.84 46.99 0) (size 41.91 7.62)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27) bold) (justify left top))
+    (uuid b96dd7b9-e7ac-41c7-835c-1c58bbfed7bf)
+  )
+  (text_box "Note: As we're using some P ports for Interrupts to expansion boards, the voltage of all GPIO inputs from panels is 3V3."
+    (at 133.35 166.37 0) (size 40.64 10.16)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid c89b4af9-5912-454f-9d84-75ebc21e8336)
+  )
+  (text_box "QN: WHAT ABOUT A RESET BUTTON? OFF SWITCH FOR TESTING?"
+    (at 99.06 120.65 0) (size 24.13 7.62)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27) bold) (justify left top))
     (uuid cfce7931-e67e-4899-a901-c9c4d1e42f0f)
+  )
+  (text_box "Datasheet indicates presence of a 50ns spike filter."
+    (at 157.48 119.38 0) (size 22.86 7.62)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid d93e33c0-02f7-4501-83e5-8b6feb7d94f0)
   )
   (text_box "INT_3 and INT_4 not present on 'small form factor' connector board."
     (at 181.61 148.59 0) (size 38.1 7.62)
@@ -3376,7 +3411,7 @@
     (uuid f04d173b-689f-43bc-8dd3-b84d1d44940f)
   )
   (text_box "TODO rework resistor / charger \ncalcs on LHS of this box"
-    (at 142.24 54.61 0) (size 33.02 7.62)
+    (at 139.7 55.88 0) (size 33.02 7.62)
     (stroke (width 0) (type default))
     (fill (type none))
     (effects (font (size 1.27 1.27) bold) (justify left top))

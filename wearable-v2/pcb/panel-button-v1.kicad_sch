@@ -263,6 +263,13 @@
     (effects (font (size 1.27 1.27) (thickness 0.254) bold) (justify left top))
     (uuid 16d6e10b-f4ab-436e-b2a8-668553881e75)
   )
+  (text_box "Note: Add a 10K resistor as we don't need full current for an Input signal."
+    (at 62.23 50.8 0) (size 41.91 10.16)
+    (stroke (width 0) (type default))
+    (fill (type none))
+    (effects (font (size 1.27 1.27)) (justify left top))
+    (uuid 223b6012-91b8-4e03-abab-aba5efd49226)
+  )
   (text_box "Note: Multiple of these panels allows more than one button to be added to the watch"
     (at 53.34 30.48 0) (size 41.91 10.16)
     (stroke (width 0) (type default))
