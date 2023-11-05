@@ -1,0 +1,62 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ba01ffbe-442c-4c2a-b3fd-8ca5fd4c24bd)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (no_connect (at 121.92 80.01) (uuid 2cae50ed-82e6-4cd4-87a0-56442b99dc17))
+  (no_connect (at 121.92 102.87) (uuid 52c9f64b-52d1-412b-9ac6-b53925c704f6))
+  (no_connect (at 121.92 76.2) (uuid 56537888-ea8d-47b0-ac3d-db11d2183963))
+  (no_connect (at 121.92 88.9) (uuid 65c4424b-459c-4abc-b425-5917dfb5e7ca))
+  (no_connect (at 121.92 85.09) (uuid 7eb2a10b-3a0f-493a-a144-5884ce26c63e))
+  (no_connect (at 121.92 72.39) (uuid e7c897ee-9d03-4259-a1fc-1119cda70351))
+
+  (sheet (at 121.92 67.31) (size 73.66 54.61) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid e453f9ae-cf02-473a-bd12-7da61a58d1fa)
+    (property "Sheetname" "Compute BC833M" (at 121.92 66.5984 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "compute-fanstel-bc833m-nrf52833.kicad_sch" (at 121.92 122.5046 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "VCC_1V8" bidirectional (at 121.92 72.39 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid f403d6d2-2670-48c8-a34d-f249fa348703)
+    )
+    (pin "GND" bidirectional (at 121.92 76.2 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 9405a64d-24b2-4cc2-8bd3-cba1d9f00b4b)
+    )
+    (pin "INT_1" bidirectional (at 121.92 102.87 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 45e8f58e-e8a4-43fe-9714-5ed2ed9bd8ea)
+    )
+    (pin "VCC_3V3" bidirectional (at 121.92 80.01 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 52b4c60a-dad3-4234-be94-b6a83ed47e27)
+    )
+    (pin "I3C_SDA" bidirectional (at 121.92 85.09 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d461775f-bed1-4122-8aad-6951c1bfbe5c)
+    )
+    (pin "I3C_SCL" bidirectional (at 121.92 88.9 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 8d7ab5b6-41c9-40c5-8b96-73ad092b548b)
+    )
+    (instances
+      (project "pcb-compute-nrf52833-bc833m"
+        (path "/ba01ffbe-442c-4c2a-b3fd-8ca5fd4c24bd" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

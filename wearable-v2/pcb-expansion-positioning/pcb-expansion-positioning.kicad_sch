@@ -1,0 +1,62 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 3b6fdcef-c703-4c96-8eff-2ef92667c912)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (no_connect (at 118.11 69.85) (uuid 0ff63929-ea2d-4972-9cfe-2b23e04f122e))
+  (no_connect (at 118.11 77.47) (uuid 21cc03de-b75e-42f1-9c27-699c9bacc504))
+  (no_connect (at 118.11 73.66) (uuid 4bd3bafc-6690-4014-8709-ee82603dfd61))
+  (no_connect (at 118.11 91.44) (uuid 7485d4c9-96c8-4f4f-9cba-3c999fa4579f))
+  (no_connect (at 118.11 99.06) (uuid de19dac3-e0aa-43ee-86b8-310ffc49283e))
+  (no_connect (at 118.11 87.63) (uuid ea98ccdf-c9ac-41f7-a8f9-ad3b9a0595a5))
+
+  (sheet (at 118.11 62.23) (size 81.28 62.23) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid c3d44315-f8b1-41d7-b318-2893fba85ec7)
+    (property "Sheetname" "Positioning Board V1" (at 118.11 61.5184 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "extension-position-v1.kicad_sch" (at 118.11 125.0446 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "I3C_SDA" bidirectional (at 118.11 87.63 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid f41b7f4c-220c-44ec-9b02-f0caa2e72535)
+    )
+    (pin "I3C_SCL" bidirectional (at 118.11 91.44 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid f5eab133-ec7e-403c-8e8f-20f1982843b5)
+    )
+    (pin "VCC_1V8" bidirectional (at 118.11 69.85 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 8a9dee12-2fb3-4d83-a12c-38e8d0ab286a)
+    )
+    (pin "VCC_3V3" bidirectional (at 118.11 73.66 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 2ff4ceac-6ac7-47c9-8811-39af8a2124df)
+    )
+    (pin "GND" bidirectional (at 118.11 77.47 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid d92c4f59-9df2-469e-9053-8bd8b161f15f)
+    )
+    (pin "INT_3" bidirectional (at 118.11 99.06 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid c11bc2e7-d59c-4695-a531-ae1a1bde91ba)
+    )
+    (instances
+      (project "pcb-expansion-positioning"
+        (path "/3b6fdcef-c703-4c96-8eff-2ef92667c912" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

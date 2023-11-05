@@ -1,0 +1,55 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid ea27f442-f6e3-4d51-a8ce-11d156cfd7eb)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (sheet (at 113.03 68.58) (size 83.82 58.42) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 07f96fc9-215e-475d-a438-ecf9f1dd13b2)
+    (property "Sheetname" "Bio Board V1" (at 113.03 67.8684 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "extension-bio-v1.kicad_sch" (at 113.03 127.5846 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "I3C_SDA" bidirectional (at 113.03 91.44 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 935c8ca6-223a-4079-9e9e-036af92dd46b)
+    )
+    (pin "VCC_1V8" bidirectional (at 113.03 76.2 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 94dbea98-2c5b-4ff6-a455-493bdb2411e9)
+    )
+    (pin "GND" bidirectional (at 113.03 80.01 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 5a80cd03-bc9d-488d-bb73-92b6bf05363f)
+    )
+    (pin "VCC_3V3" bidirectional (at 113.03 83.82 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 668d80c0-0a76-4234-8bce-3e8c0b0f3d21)
+    )
+    (pin "INT_2" bidirectional (at 113.03 101.6 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 00719294-86c4-44de-93e0-55b8fe917da3)
+    )
+    (pin "I3C_SCL" bidirectional (at 113.03 96.52 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 1488801d-ac94-4722-abe7-763596e3034a)
+    )
+    (instances
+      (project "pcb-expansion-bio"
+        (path "/ea27f442-f6e3-4d51-a8ce-11d156cfd7eb" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)

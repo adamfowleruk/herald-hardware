@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": true,
+      "lockedItems": false,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -68,7 +68,7 @@
     "zone_display_mode": 0
   },
   "meta": {
-    "filename": "wearable-v2.kicad_prl",
+    "filename": "pcb-compute-nrf52833-bc833m.kicad_prl",
     "version": 3
   },
   "project": {

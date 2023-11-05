@@ -1,0 +1,62 @@
+(kicad_sch (version 20230121) (generator eeschema)
+
+  (uuid 6b9e4885-effb-4fb5-97a0-5d3e4e7bb946)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (no_connect (at 106.172 87.376) (uuid 02387707-ad08-4a04-93be-7abc359ada6f))
+  (no_connect (at 106.172 67.818) (uuid 338e1e51-f2f2-4bd6-8536-f052cffe1195))
+  (no_connect (at 106.172 63.246) (uuid 7ef8f55c-60b2-4850-a5ce-681a5d4f480a))
+  (no_connect (at 106.172 72.39) (uuid b5c0193a-4072-4050-bca4-d1c556762f0f))
+  (no_connect (at 106.172 83.566) (uuid c03d6d31-43ce-4ac7-bda1-12e67aa9efc7))
+  (no_connect (at 106.172 97.536) (uuid d097c346-1d13-4373-812c-e72668db93bc))
+
+  (sheet (at 106.172 56.896) (size 85.852 60.706) (fields_autoplaced)
+    (stroke (width 0.1524) (type solid))
+    (fill (color 0 0 0 0.0000))
+    (uuid 63423736-3bb5-47a4-9b8e-5f1e776d0674)
+    (property "Sheetname" " Display Board V1" (at 106.172 56.1844 0)
+      (effects (font (size 1.27 1.27)) (justify left bottom))
+    )
+    (property "Sheetfile" "extension-display-v1.kicad_sch" (at 106.172 118.1866 0)
+      (effects (font (size 1.27 1.27)) (justify left top))
+    )
+    (pin "VCC_3V3" bidirectional (at 106.172 63.246 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 45dcdfca-ddf1-4e7b-a39e-aefc98d212f7)
+    )
+    (pin "GND" bidirectional (at 106.172 67.818 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 648d60cb-152f-4aaf-9724-6c3de5b3304d)
+    )
+    (pin "I3C_SCL" bidirectional (at 106.172 83.566 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 88bc5635-f298-403e-b0fb-01d582830c08)
+    )
+    (pin "I3C_SDA" bidirectional (at 106.172 87.376 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid fc4940cd-9e4c-4e19-9c0c-4f422959abd1)
+    )
+    (pin "VCC_1V8" bidirectional (at 106.172 72.39 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 3dda11e1-b083-4f6e-ae86-4e99bc59fe8b)
+    )
+    (pin "EXP_INT" input (at 106.172 97.536 180)
+      (effects (font (size 1.27 1.27)) (justify left))
+      (uuid 2acc9311-94dc-4006-a8aa-6c4e19d0a1a1)
+    )
+    (instances
+      (project "pcb-expansion-feedback"
+        (path "/6b9e4885-effb-4fb5-97a0-5d3e4e7bb946" (page "2"))
+      )
+    )
+  )
+
+  (sheet_instances
+    (path "/" (page "1"))
+  )
+)
