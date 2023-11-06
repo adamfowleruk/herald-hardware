@@ -1,1 +1,12 @@
 .DS_Store
+**/gerbers-*/**
+**/gerbers-*.zip
+*.FCBak
+wearable-v2/*/*-backups
+wearable-v2/*/*.xml
+wearable-v2/*/*.csv
+wearable-v2/*/*.step
+wearable-v2/*/*.stp
+wearable-v2/*/*.wrl
+wearable/pcb/wearable-backups
+**/~*.lck

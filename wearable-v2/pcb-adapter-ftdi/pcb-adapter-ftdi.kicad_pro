@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 1.2,
-          "width": 1.4
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -415,7 +415,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb-expansion-feedback.kicad_pro",
+    "filename": "pcb-adapter-ftdi.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -484,6 +484,10 @@
       {
         "netclass": "GNDPWR",
         "pattern": "VBUS"
+      },
+      {
+        "netclass": "GNDPWR",
+        "pattern": "/GND"
       }
     ]
   },
@@ -508,7 +512,7 @@
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
-      "intersheets_ref_short": true,
+      "intersheets_ref_short": false,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
@@ -534,12 +538,8 @@
   },
   "sheets": [
     [
-      "6b9e4885-effb-4fb5-97a0-5d3e4e7bb946",
+      "1e12d77a-2b7b-4c12-8e92-5c01a54fbf80",
       ""
-    ],
-    [
-      "63423736-3bb5-47a4-9b8e-5f1e776d0674",
-      " Display Board V1"
     ]
   ],
   "text_variables": {}
