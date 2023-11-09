@@ -10,3 +10,9 @@ wearable-v2/*/*.stp
 wearable-v2/*/*.wrl
 wearable/pcb/wearable-backups
 **/~*.lck
+# PCBWay plugin files
+*.kicad_pcb.zip
+*.kicad_pcb_bom.csv
+*.kicad_pcb_netlist.ipc
+*.kicad_pcb_positions.csv
+**/pcbway_production
