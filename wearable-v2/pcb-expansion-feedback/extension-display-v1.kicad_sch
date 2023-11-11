@@ -3217,7 +3217,7 @@
     (property "Value" "VG0832013D" (at 125.73 134.62 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
-    (property "Footprint" "" (at 119.38 133.35 0)
+    (property "Footprint" "Connector_PinHeader_1.00mm:PinHeader_1x02_P1.00mm_Vertical" (at 119.38 133.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Datasheet" "https://www.vybronics.com/coin-vibration-motors/lra/v-g0832013d" (at 119.38 147.32 0)
