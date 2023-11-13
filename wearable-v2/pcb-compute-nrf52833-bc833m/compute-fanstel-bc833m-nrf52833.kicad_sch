@@ -2323,7 +2323,7 @@
     (property "Datasheet" "~" (at 137.16 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Description" "Capacitor, X7R 10%" (at 137.16 99.06 0)
+    (property "Description" "Capacitor, X7R 10%, 25V" (at 137.16 99.06 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "MPN" "GRM155R71E104KE14D" (at 137.16 99.06 0)

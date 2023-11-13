@@ -1,190 +1,239 @@
-45849036607676
-Herald
-8-WSON_MAC
-
-MX25L51245GZ2I-08G 
+57664180633626
+Connector_Coaxial
+BNC_Amphenol_031-5539_Vertical
+BNC coaxial connector vertical, Amphenol 031-71059, https://www.amphenolrf.com/library/download/link/link_id/594427/parent/031-5539/
+BNC Amphenol Vertical
 0
-9
-9
-Herald
-8-WSON_MAC-L
-
-MX25L51245GZ2I-08G 
+4
+2
+Connector_Coaxial
+BNC_Amphenol_031-6575_Horizontal
+dual independently isolated BNC plug (https://www.amphenolrf.com/downloads/dl/file/id/2980/product/644/031_6575_customer_drawing.pdf)
+Dual BNC Amphenol Horizontal
 0
-9
-9
-Herald
-8-WSON_MAC-M
-
-MX25L51245GZ2I-08G 
+6
+4
+Connector_Coaxial
+BNC_Amphenol_B6252HB-NPP3G-50_Horizontal
+http://www.farnell.com/datasheets/612848.pdf
+BNC Amphenol Horizontal
 0
-9
-9
-Herald
-DFN-10-1EP_2.6x2.6mm_P0.5mm_EP1.25x2.15mm
-DFN-10, 2.6x2.6mm package
-DFN-10 DFN2626-10
+4
+2
+Connector_Coaxial
+BNC_PanelMountable_Vertical
+Panel-mountable BNC connector mounted through PCB, vertical
+BNC connector
 0
-11
-11
-Herald
-EAWF03039S
-EA WF030-39S-3
-Connector
+2
+2
+Connector_Coaxial
+BNC_TEConnectivity_1478035_Horizontal
+BNC RF Interface, PCB mount 4 pin, Right Angle, Bayonet, 50Ohm, 4GHz, https://www.te.com/commerce/DocumentDelivery/DDEController?Action=showdoc&DocId=Customer+Drawing%7F1478035%7FB1%7Fpdf%7FEnglish%7FENG_CD_1478035_B1.pdf%7F1-1478035-0
+BNC RF interface bayonet 50ohm
 0
-41
-41
-Herald
-Fanstel_BC833x
-Fanstel BC833M/E Compact BLE 5.2, Thread, Zigbee Module, https://www.fanstel.com/s/BC833M_Product_Specifications-4ep6.pdf
-nRF52833 BC833
+5
+2
+Connector_Coaxial
+BNC_TEConnectivity_1478204_Vertical
+BNC female PCB mount 4 pin straight chassis connector http://www.te.com/usa-en/product-1-1478204-0.html
+BNC female PCB mount 4 pin straight chassis connector 
 0
-28
-28
-Herald
-HERALD_V2_CONN_PORT
-Herald V2 connector port, extension board connector, based on kyocera 5861 - 145861006024829+ (plug)
-herald,port,v2,kyocera,5861
+5
+2
+Connector_Coaxial
+BNC_Win_364A2x95_Horizontal
+Dual front isolated BNC plug (https://www.winconn.com/wp-content/uploads/364A2595.pdf)
+Dual BNC Horizontal Isolated
 0
-14
-8
-Herald
-HERALD_V2_CONN_RECEPTACLE
-Herald Standard Connector board connector, Kyocera 5861 based, 245861006004829+ (receptacle)
-btb,kyocera,5861,herald,receptacle
+6
+3
+Connector_Coaxial
+CoaxialSwitch_Hirose_MS-156C3_Horizontal
+Subminiature Coaxial Switch 1.35mm High, DC to 11GHz
+Switch Coaxial RF
 0
 12
-8
-Herald
-Herald_Battery_Solder_Pads
-Battery Solder Pads for the Herald Wearable
-herald
+3
+Connector_Coaxial
+MMCX_Molex_73415-0961_Horizontal_0.8mm-PCB
+Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
+Molex MMCX Horizontal Coaxial
 0
+3
 2
+Connector_Coaxial
+MMCX_Molex_73415-0961_Horizontal_1.0mm-PCB
+Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
+Molex MMCX Horizontal Coaxial
+0
+3
 2
-Herald
-ICM-20948-QFN40P300X300X105-24N
-ICM 20948 with QFN40P300X300X105-24N footprint
-mems,9DoF,QFN40P
+Connector_Coaxial
+MMCX_Molex_73415-0961_Horizontal_1.6mm-PCB
+Molex MMCX Horizontal Coaxial https://www.molex.com/pdm_docs/sd/734150961_sd.pdf
+Molex MMCX Horizontal Coaxial
 0
-24
-24
-Herald
-LED_Kingbright_APHF1608
-1.6x0.8 mm Full-Color Surface Mount LED, https://www.kingbrightusa.com/images/catalog/SPEC/APHF1608LSEEQBDZGKC.pdf
-LED RGB
-0
-4
-4
-Herald
-LGA_M10Q-00B_UBL
-
-MIA-M10Q-00B 
-0
-53
-53
-Herald
-MOD18_MAX-M10M_UBL
-
-MAX-M10M-00B 
-0
-18
-18
-Herald
-MOD18_MAX-M10M_UBL-L
-
-MAX-M10M-00B 
-0
-18
-18
-Herald
-MOD18_MAX-M10M_UBL-M
-
-MAX-M10M-00B 
-0
-18
-18
-Herald
-MillSlot_8.0x1.0mm
-MillSlot_8.0x1.0mm
-milling slot 8.0x1.0mm
-0
-0
-0
-Herald
-NN02-224
-
-
-0
+3
 2
+Connector_Coaxial
+MMCX_Molex_73415-1471_Vertical
+http://www.molex.com/pdm_docs/sd/734151471_sd.pdf
+Molex MMCX Coaxial Connector 50 ohms Female Jack Vertical THT
+0
+5
 2
-Herald
-PTS526
-
-
+Connector_Coaxial
+SMA_Amphenol_901-143_Horizontal
+ Amphenol RF 901-143 https://www.amphenolrf.com/library/download/link/link_id/585682
+SMA THT Female Jack Horizontal
 0
-4
-4
-Herald
-QFN40P180X260X55-16N
-
-
+5
+2
+Connector_Coaxial
+SMA_Amphenol_901-144_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/7023/product/3103/901_144_customer_drawing.pdf
+SMA THT Female Jack Vertical
 0
-16
-16
-Herald
-SNT-6A
-Ablic SNT-6A, https://www.ablic.com/en/doc/package/SNT_Package_E.pdf
-SNT-6
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132134-10_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/4007/product/2974/132134_10_customer_drawing.pdf
+SMA SMD Female Jack Vertical
 0
-6
-6
-Herald
-SON40P200X200X80-11N
-
-
+3
+2
+Connector_Coaxial
+SMA_Amphenol_132134-11_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/3406/product/2975/132134_11_customer_drawing.pdf
+SMA THT Female Jack Vertical ExtendedLegs
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132134-14_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/1793/product/2976/132134_14_customer_drawing.pdf
+SMA THT Female Jack Vertical ExtendedLegs
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132134-16_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/1141/product/2978/132134_16_customer_drawing.pdf
+SMA THT Female Jack Vertical ExtendedLegs
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132134_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/2187/product/2843/132134_customer_drawing.pdf
+SMA THT Female Jack Vertical ExtendedLegs
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132203-12_Horizontal
+https://www.amphenolrf.com/media/downloads/1769/132203-12.pdf
+SMA THT Female Jack Horizontal
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132289_EdgeMount
+http://www.amphenolrf.com/132289.html
+SMA
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132291-12_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/1688/product/3020/132291_12_customer_drawing.pdf
+SMA THT Female Jack Vertical Bulkhead
+0
+5
+2
+Connector_Coaxial
+SMA_Amphenol_132291_Vertical
+https://www.amphenolrf.com/downloads/dl/file/id/3222/product/2918/132291_customer_drawing.pdf
+SMA THT Female Jack Vertical Bulkhead
+0
+5
+2
+Connector_Coaxial
+SMA_Molex_73251-1153_EdgeMount_Horizontal
+Molex SMA RF Connectors, Edge Mount, (http://www.molex.com/pdm_docs/sd/732511150_sd.pdf)
+sma edge
 0
 11
-11
-Herald
-SON110P970X1010X230-18N
-<b>TESEO-LIV3F</b><br>
-
+2
+Connector_Coaxial
+SMA_Molex_73251-2120_EdgeMount_Horizontal
+Molex SMA RF Connector, Edge Mount, (http://www.molex.com/pdm_docs/sd/732512120_sd.pdf)
+sma edge
 0
-18
-18
-Herald
-SOT-563
-SOT563, 5 mils pad-to-pad clearance
-SOT-563
+7
+2
+Connector_Coaxial
+SMA_Molex_73251-2200_Horizontal
+https://www.molex.com/webdocs/datasheets/pdf/en-us/0732512200_RF_COAX_CONNECTORS.pdf
+SMA THT Female Jack Horizontal
 0
-6
-6
-Herald
-TE_1-2328724-3_2Rows_13Pins_P0.3mm_FPC
-TE Connectivity 13pins 0.3mm pitch FPC cable
-FPC cable
+5
+2
+Connector_Coaxial
+SMA_Samtec_SMA-J-P-X-ST-EM1_EdgeMount
+Connector SMA, 0Hz to 20GHz, 50Ohm, Edge Mount (http://suddendocs.samtec.com/prints/sma-j-p-x-st-em1-mkt.pdf)
+SMA Straight Samtec Edge Mount
 0
-13
-13
-Herald
-TE_1-2328724-3_2Rows_13Pins_P0.3mm_Horizontal
-TE Connectivity 13pins 0.3mm pitch FPC connector, Front lip
-FPC connector
+5
+2
+Connector_Coaxial
+SMA_Wurth_60312102114405_Vertical
+Würth WR-SMA PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/60312102114405.pdf)
+Coaxial Connector 50 ohms Female
 0
-15
-14
-Herald
-USB_C_Receptacle_IPxx
-USB Type C Receptacle, IPxx rated, universal
-USB Type-C Receptacle
+3
+2
+Connector_Coaxial
+SMA_Wurth_60312002114503_Vertical
+https://www.we-online.de/katalog/datasheet/60312002114503.pdf
+SMA THT Female Jack Vertical ExtendedLegs
 0
-30
-26
-Herald
-USON-8-1EP_2x3mm_P0.5mm_EP0.25x1.65mm
-USON-8 / UDFN-8, 2x3mm, pitch 0.5mm, https://ww1.microchip.com/downloads/en/DeviceDoc/8L_UDFN_2x3mm_NP_C04203C.pdf
-USON-8 UDFN-8 flash
+5
+2
+Connector_Coaxial
+SMB_Jack_Vertical
+SMB pcb mounting jack
+SMB Jack  Striaght
 0
-9
-9
+5
+2
+Connector_Coaxial
+U.FL_Hirose_U.FL-R-SMT-1_Vertical
+Hirose U.FL Coaxial https://www.hirose.com/product/en/products/U.FL/U.FL-R-SMT-1%2810%29/
+Hirose U.FL Coaxial
+0
+3
+2
+Connector_Coaxial
+U.FL_Molex_MCRF_73412-0110_Vertical
+Molex Microcoaxial RF Connectors (MCRF), mates Hirose U.FL, (http://www.molex.com/pdm_docs/sd/734120110_sd.pdf)
+mcrf hirose ufl u.fl microcoaxial
+0
+4
+2
+Connector_Coaxial
+WR-MMCX_Wuerth_66012102111404_Vertical
+Würth WR-MMCX PCB SMT Jack, Vertical (https://www.we-online.com/components/products/datasheet/66012102111404.pdf)
+Coaxial Connector 50 ohms Female
+0
+3
+2
+Connector_Coaxial
+WR-MMCX_Wuerth_66011102111302_Horizontal
+Würth WR-MMCX PCB SMT Jack, Horizontal (https://www.we-online.com/components/products/datasheet/66011102111302.pdf)
+Coaxial Connector 50 ohms Female
+0
+7
+2

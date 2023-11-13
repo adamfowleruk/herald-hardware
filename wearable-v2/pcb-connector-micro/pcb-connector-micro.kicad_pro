@@ -34,9 +34,9 @@
         "other_text_thickness": 0.15,
         "other_text_upright": false,
         "pads": {
-          "drill": 0.0,
-          "height": 3.2,
-          "width": 2.2
+          "drill": 0.762,
+          "height": 1.524,
+          "width": 1.524
         },
         "silk_line_width": 0.15,
         "silk_text_italic": false,
@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.3,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -415,7 +415,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb-expansion-positioning.kicad_pro",
+    "filename": "pcb-connector-micro.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -484,6 +484,10 @@
       {
         "netclass": "GNDPWR",
         "pattern": "VBUS"
+      },
+      {
+        "netclass": "GNDPWR",
+        "pattern": "Earth"
       }
     ]
   },
@@ -493,7 +497,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "pcb-expansion-positioning.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -534,12 +538,12 @@
   },
   "sheets": [
     [
-      "3b6fdcef-c703-4c96-8eff-2ef92667c912",
+      "838ade71-5d10-4ef2-9f0b-3660f5f3b1e9",
       ""
     ],
     [
-      "c3d44315-f8b1-41d7-b318-2893fba85ec7",
-      "Positioning Board V1"
+      "e7f01c9e-4c37-4f13-af65-cc8f6eb54ad8",
+      "Micro Connector"
     ]
   ],
   "text_variables": {}

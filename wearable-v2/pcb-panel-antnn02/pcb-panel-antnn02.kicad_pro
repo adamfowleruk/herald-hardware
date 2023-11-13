@@ -45,7 +45,7 @@
         "silk_text_thickness": 0.3,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.5
         }
       },
       "diff_pair_dimensions": [
@@ -400,7 +400,7 @@
       "no_connect_dangling": "warning",
       "pin_not_connected": "error",
       "pin_not_driven": "error",
-      "pin_to_pin": "error",
+      "pin_to_pin": "warning",
       "power_pin_not_driven": "error",
       "similar_labels": "warning",
       "simulation_model_issue": "ignore",
@@ -415,7 +415,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "pcb-expansion-positioning.kicad_pro",
+    "filename": "pcb-panel-antnn02.kicad_pro",
     "version": 1
   },
   "net_settings": {
@@ -493,7 +493,7 @@
       "idf": "",
       "netlist": "",
       "specctra_dsn": "",
-      "step": "pcb-expansion-positioning.step",
+      "step": "",
       "vrml": ""
     },
     "page_layout_descr_file": ""
@@ -508,7 +508,7 @@
       "field_names": [],
       "intersheets_ref_own_page": false,
       "intersheets_ref_prefix": "",
-      "intersheets_ref_short": true,
+      "intersheets_ref_short": false,
       "intersheets_ref_show": false,
       "intersheets_ref_suffix": "",
       "junction_size_choice": 3,
@@ -534,12 +534,8 @@
   },
   "sheets": [
     [
-      "3b6fdcef-c703-4c96-8eff-2ef92667c912",
+      "24988f31-9134-4edc-8a0e-560e7e2d8cad",
       ""
-    ],
-    [
-      "c3d44315-f8b1-41d7-b318-2893fba85ec7",
-      "Positioning Board V1"
     ]
   ],
   "text_variables": {}
